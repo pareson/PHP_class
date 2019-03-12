@@ -1,1 +1,1 @@
-Mozambik here!
+Mozambique here!
