@@ -191,5 +191,5 @@ else{
     echo "<script> alert('wrong access!') </script>";
 }
 ```
-insert와 거의 유사하지만, 처음에 정상접근 판별에서 num값의 세팅만을 판단한다.(다른 채울값이 없기때문)
-insert와 마찬가지로 num에 해당하는 튜플을 제거한다.
+update와 거의 유사하지만, 처음에 정상접근 판별에서 num값의 세팅만을 판단한다.(다른 채울값이 없기때문)
+update와 마찬가지로 num에 해당하는 튜플을 제거한다.
